@@ -10,7 +10,7 @@ Username: aspire
 Host: localhost
 Role: DB Admin
 Authentication: MySQL
-Password: My$ql@Server#5.7.14
+Password: *******************
 */
 
 DROP DATABASE IF EXISTS `hibernatedb`;

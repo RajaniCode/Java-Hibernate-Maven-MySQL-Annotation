@@ -5,7 +5,7 @@ This is the repository for the code for Java Hibernate Maven MySQL Annotation.
 
 • Java Version 1.8.0_102
 
-• Hibernate 5.2.3
+• Hibernate Version 5.2.3
 
 • Apache Maven Version 3.3.9
 
